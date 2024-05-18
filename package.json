@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-create-double",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Convert a double-precision floating-point number to a Node-API value.",
   "license": "Apache-2.0",
   "author": {
